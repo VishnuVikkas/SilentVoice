@@ -10,7 +10,7 @@ ASL Model Trainer (train.py): A dedicated GUI for collecting new gesture data an
 
 Live Interpreter (runmodel.py): The main application for real-time sign recognition, word prediction, and multilingual speech output.
 
-Developed by: VISHNUVIKKAS J K R, ASHUTOSH PANDEY, PRINCE, TANMOY SAHU, and HITEN B.
+Developed by: VISHNUVIKKAS J K R, ASHUTOSH CHANDRAKANT PANDEY, SUJAL MISHRA, TANMOY SAHU, and MOHIT PRIYAJ GANDHI, DIVIT BOHRA.
 
 ✨ Core Features
 
